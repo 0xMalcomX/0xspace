@@ -1,6 +1,10 @@
 {
   "name": "0x-space",
   "version": "0.1.0",
+  "homepage": "https://0xmalcomx.github.io/0xspace/",
+
+
+
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
